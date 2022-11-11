@@ -4,7 +4,8 @@
 
   For this module we were challlenged to refactor the code for a fake marketing agency, so that it meets accessability standards. 
   Using what we learned the last week and a half in class I was able to refactor the code to be able to do the following:
-  -Find the HTMl semantic elements when veiwing the source code
+  <ul>
+  <li>Find the HTMl semantic elements when veiwing the source code<li>
   -View the structure of the HTML elements in an organized and logical way
   -Find accessible alt attributes when veiwing the image elements
   -View the heading attributes in a sequential order

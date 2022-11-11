@@ -12,7 +12,7 @@
   <li>Find a concise and descriptive title when veiwing the title element
   
 
-  
+    
 ## Usage
   By clicking on the second link below, you will be brought to the website that looks like the following screenshot:
   <img src="./assets/images/01-html-css-git-homework-demo.png" alt="screenshot of deployed website"/>

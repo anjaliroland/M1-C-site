@@ -19,10 +19,11 @@
   
 
 ## Links
-  Repository: 
-  <a href="https://github.com/anjaliroland/M1-C-site"></a>
-  Deployed website:
-  <a href="https://anjaliroland.github.io/M1-C-site/"></a>
+  Repository: [
+  (https://github.com/anjaliroland/M1-C-site)]
+  
+  Deployed website: [
+  (https://anjaliroland.github.io/M1-C-site/)]
 
 
 

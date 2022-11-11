@@ -10,6 +10,7 @@
   <li>Find accessible alt attributes when veiwing the image elements<li>
   <li>View the heading attributes in a sequential order<li>
   <li>Find a concise and descriptive title when veiwing the title element<li>
+  <ul>
 
   
 ## Usage
